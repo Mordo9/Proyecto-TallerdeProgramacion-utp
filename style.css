@@ -46,6 +46,7 @@ header nav{
     flex-direction: column;
     text-align: center;
     padding-bottom: 25px;
+    
 }
 header a{
     padding: 5px 12px;
